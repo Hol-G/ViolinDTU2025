@@ -5,3 +5,5 @@ There are 3 measurement/analysis types:\
 M1 - Noise excitation, 2-channel\
 M2 - Impact excitation, 2-channel\
 M3 - Pendulum excitation, 1-channel
+
+[Link to PDF](MSc_Thesis_HolgerRindel.pdf)
